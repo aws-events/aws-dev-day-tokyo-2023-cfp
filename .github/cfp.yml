@@ -1,0 +1,134 @@
+name: AWS Dev Day Online Japan 2023年 Call for Proposals 応募フォーム
+description: AWS Dev Day Online Japan Call for Proposals へのご応募をご検討頂きありがとうございます。下記のフォームに必要事項をご記入の上、Submitしてください。
+title: "<セッションタイトルを最大40文字程度で記入してください>"
+labels: [cfp]
+assignees:
+  - khenovia
+body:
+  - type: checkboxes
+    id: session-title
+    attributes:
+      label: セッションタイトル (必須)
+      options:
+        - label: セッションのタイトルをイシュー件名に最大40文字程度で入力しました
+          required: true
+  - type: checkboxes
+    id: registered-web-form
+    attributes:
+      label: 連絡先の登録 (必須)
+      options:
+        - label: 私は、[こちらのフォーム](TBD)に必要事項を記入してsubmitしました
+          required: true
+  - type: textarea
+    id: session-abstract
+    attributes:
+      label: セッションのアブストラクト (最大250文字) (必須)
+      description: 採択の場合、原則としてこのままセッション情報として Web に掲載されます
+      placeholder: ここにセッション アブストラクトをご記入ください
+    validations:
+      required: true
+  - type: textarea
+    id: session-detail
+    attributes:
+      label: セッションについての補足情報 (最大800文字) (任意)
+      description: セッション内容についてタイトルおよびアブストラクトのみで説明しきれない場合、補足情報を800文字以下にて記入してください
+      placeholder: ここにセッションの補足説明をお書きください
+    validations:
+      required: false
+  - type: dropdown
+    id: session-duration
+    attributes:
+      label: セッション時間
+      description: 下記よりご希望のセッションの長さをお選びください
+      options:
+        - 20分
+        - 45分
+        - 90分
+    validations: 
+      required: true
+  - type: dropdown
+    id: session-level
+    attributes:
+      label: 想定受講者の知識レベル（必須）
+      options:
+        - 初級 - セッションの中心となるトピックについての具体的な知識がない方、これから勉強しようと考えている方向け
+        - 中級 - セッションの中心となるトピックを触ったことがある、現在勉強中である方向け
+        - 上級 - セッションの中心となるトピックを本番環境で利用・運用したことがある方向け
+    validations:
+      required: true
+  - type: dropdown
+    id: session-expected-attendee-roles
+    attributes:
+      label: 想定受講者の開発対象やロール・役割 (複数選択可) (必須)
+      multiple: true
+      options:
+        - Web フロントエンド開発
+        - Web バックエンド / サーバーサイド開発
+        - モバイル / ネイティブアプリケーション開発
+        - DevOps / Infrastructure as Code
+        - その他
+    validations:
+      required: true
+  - type: dropdown
+    id: session-expected-industries
+    attributes:
+      label: 想定受講者の業種・業界・業態 (複数選択可) (任意)
+      multiple: true
+      options:
+        - エンタープライズ
+        - ゲーム
+        - スタートアップ
+        - 金融
+        - 医療
+        - 教育
+        - ISV/SaaS
+        - その他
+    validations:
+      required: false
+  - type: dropdown
+    id: session-topics
+    attributes:
+      label: セッションのトピック (複数選択可) (必須)
+      multiple: true
+      options:
+        - Web フロントエンド開発
+        - Web バックエンド / サーバーサイド開発
+        - モバイル / ネイティブアプリケーション開発
+        - SaaS 開発
+        - Game 開発
+        - 大規模サービス構築
+        - DevOps / Infrastructure as Code
+        - プログラミング
+        - アプリケーションアーキテクチャー
+        - ソフトウェアテスト
+        - エンジニアリングプロセス
+        - エンジニアのキャリア
+        - エンジニア組織のカルチャー
+        - その他
+    validations:
+      required: true
+  - type: dropdown
+    id: session-technology-categories
+    attributes:
+      label: セッションの技術カテゴリー (複数選択可) (必須)
+      multiple: true
+      options:
+        - サーバーレス
+        - コンテナ
+        - フロントエンド
+        - AI / 機械学習
+        - データベース
+        - アナリティクス
+        - IoT
+        - Web3/ブロックチェーン
+        - その他
+    validations:
+      required: true
+  - type: input
+    id: session-related-aws-services
+    attributes:
+      label: セッション内で登場する主な AWS サービス (任意)
+      description: セッションの中でトピックの一部として扱う可能性がある AWS サービスをご記入ください
+      placeholder: AWS App Runner, Amazon ECS, AWS Fargate, AWS DeepRacer
+    validations:
+      required: false
