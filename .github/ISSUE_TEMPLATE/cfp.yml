@@ -17,7 +17,7 @@ body:
     attributes:
       label: 連絡先の登録 (必須)
       options:
-        - label: 私は、[こちらのフォーム](TBD)に必要事項を記入してsubmitしました
+        - label: 私は、[こちらのフォーム](https://pages.awscloud.com/devday_2023_tokyo_CFP_lp.html) に必要事項を記入してsubmitしました
           required: true
   - type: textarea
     id: session-abstract
