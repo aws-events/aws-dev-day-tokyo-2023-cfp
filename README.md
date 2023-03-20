@@ -1,4 +1,4 @@
-# AWS Dev Day 2023　Tokyo Call for Proposals
+# AWS Dev Day 2023 Tokyo Call for Proposals
 
 <p align="center">
   <img src="res/banner.png" />
