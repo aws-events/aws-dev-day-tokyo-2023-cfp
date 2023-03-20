@@ -1,20 +1,19 @@
-# AWS Dev Day Online Japan 2023 Call for Proposals
+# AWS Dev Day Tokyo 2023 Call for Proposals
 
 <p align="center">
   <img src="res/banner.png" />
 </p>
 
-AWS が開催する開発者のための技術の祭典「AWS Dev Day 2023 Japan」では幅広く開発者の皆様から発表していただく「Call for Proposal」をプログラムに取り入れています。 みなさまが培われたご経験、知見、そしてノウハウをぜひこの場で共有していただけませんか？ ご応募をご検討いただける場合は下記募集要項をご確認いただき、応募フォームにセッション情報を入力してください。また、ご応募された方のご連絡先などの情報を別フォームにご記入いただきます。ご応募いただいたのち、選考を経て採否を決定させていただきます。予めご了承ください。
+AWS が開催する開発者のための技術の祭典「AWS Dev Day 2023 Tokyo」では幅広く開発者の皆様から発表していただく「Call for Proposal」をプログラムに取り入れています。 みなさまが培われたご経験、知見、そしてノウハウをぜひこの場で共有していただけませんか？ ご応募をご検討いただける場合は下記募集要項をご確認いただき、応募フォームにセッション情報を入力してください。また、ご応募された方のご連絡先などの情報を別フォームにご記入いただきます。ご応募いただいたのち、選考を経て採否を決定させていただきます。予めご了承ください。
 
-:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2023-cfp/issues/new/choose)
+:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp/issues/new/choose)
 
-:rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-online-japan-2023-cfp/issues)
-
+:rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp/issues)
 
 ### 応募条件
 
 1. アプリケーション開発の一般的なトピックもしくはAWS を活用した開発に関するトピックであること
-2. AWS Dev Day 2023 Japan 会期中 (2023年 6月 22 日 ~ 23 日) のいずれの日程および時間帯 (13:00 ～ 19:00)でもプレゼンテーションできること。また、会場（東京都渋谷区）でのプレゼンテーションができること
+2. AWS Dev Day 2023 Tokyo 会期中 (2023年 6月 22 日 ~ 23 日) のいずれの日程および時間帯 (13:00 ～ 19:00)でもプレゼンテーションできること。また、会場（東京都渋谷区）でのプレゼンテーションができること
 3. 下記に定義したトピックや技術カテゴリのいずれかに、開発者の視点から関係していること (複数にまたがっていても問題ありません)
   - トピック
     - Web フロントエンド開発
@@ -58,7 +57,7 @@ AWS が開催する開発者のための技術の祭典「AWS Dev Day 2023 Japan
 
 ### 選考方法
 
-1. AWS Dev Day Online Japanコアメンバーによる審査
+1. AWS Dev Day Tokyo コアメンバーによる審査
 2. **GitHubへのリアクション数**
 
 1, 2 を総合的に判断し、採否を決定いたします
@@ -73,7 +72,6 @@ AWS が開催する開発者のための技術の祭典「AWS Dev Day 2023 Japan
 **Q.1人で複数のCFP の応募は可能ですか?**
 
 A. 可能です。また、2回目以降のCFP では連絡先の登録は不要です。
-
 
 ### 過去のAWS Dev Day Online CFP採択セッションの例 (AWS Dev Day Online Japan 2022)
 
