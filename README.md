@@ -1,4 +1,4 @@
-# AWS Dev Day Tokyo 2023 Call for Proposals
+# AWS Dev Day 2023　Tokyo Call for Proposals
 
 <p align="center">
   <img src="res/banner.png" />
@@ -57,7 +57,7 @@ AWS が開催する開発者のための技術の祭典「AWS Dev Day 2023 Tokyo
 
 ### 選考方法
 
-1. AWS Dev Day Tokyo コアメンバーによる審査
+1. AWS Dev Day 2023 Tokyo コアメンバーによる審査
 2. **GitHubへのリアクション数**
 
 1, 2 を総合的に判断し、採否を決定いたします
