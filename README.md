@@ -11,7 +11,7 @@
 
 AWS が開催する開発者のための技術の祭典「AWS Dev Day 2023 Tokyo」では幅広く開発者の皆様から発表していただく「Call for Proposal」をプログラムに取り入れています。 みなさまが培われたご経験、知見、そしてノウハウをぜひこの場で共有していただけませんか？ ご応募をご検討いただける場合は下記募集要項をご確認いただき、応募フォームにセッション情報を入力してください。また、ご応募された方のご連絡先などの情報を別フォームにご記入いただきます。ご応募いただいたのち、選考を経て採否を決定させていただきます。予めご了承ください。
 
-:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp/issues/new/choose)
+:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp/issues/new?assignees=khenovia&labels=cfp&template=cfp.yml&title=%3C%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%82%92%E6%9C%80%E5%A4%A740%E6%96%87%E5%AD%97%E7%A8%8B%E5%BA%A6%E3%81%A7%E8%A8%98%E5%85%A5%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%3E)
 
 :rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp/issues)
 
